@@ -1,7 +1,8 @@
 # user-authentication
 
 # How to run this 
-you need to add your own mongodb string in db.js file
+* you need to add your own mongodb string in db.js file
+in terminal, type npm run dev
 
 # Tech Used
 * Javascript
